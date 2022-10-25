@@ -33,7 +33,7 @@ data = {"data":
             "previous": 1
           },
           {
-            "age": 87,
+            "age": 88,
             "campaign": 1,
             "cons.conf.idx": -46.2,
             "cons.price.idx": 92.893,
